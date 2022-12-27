@@ -1,0 +1,6 @@
+img {max-width: 100%;}
+.no-display {display: none}
+.modal-outer {position: absolute; top: 0; left: 0; right: 0; bottom: 0; background: rgba(0,0,0,0.3); z-index: 10}
+.modal-inner {display: flex; justify-content: center; align-items: center; height: 100%;}
+.bi {font-size: 2rem;}
+.bi::before {line-height: 24px}
